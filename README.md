@@ -1,2 +1,2 @@
 ## Educational portfolio website 
-Made using NextJS React&
+Made using NextJS.
